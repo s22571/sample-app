@@ -5,6 +5,5 @@ class Main {
 		int a = 5;
 		String s = "asas";
 		double v = 1334;
-		string fd = "sds";
 	}
 }
