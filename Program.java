@@ -4,5 +4,6 @@ class Main {
 		System.out.println("xd");
 		int a = 5;
 		String s = "asas";
+		double v = 1334;
 	}
 }
